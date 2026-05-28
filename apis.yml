@@ -1,0 +1,32 @@
+aid: ftx
+name: FTX
+description: "Complete REST, websocket, and FTX APIs to suit your algorithmic trading needs"
+url: https://docs.ftx.com/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Cryptocurrency"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Cryptocurrency
+  - Public APIs
+apis:
+  - name: FTX
+    description: "Complete REST, websocket, and FTX APIs to suit your algorithmic trading needs"
+    humanURL: https://docs.ftx.com/
+    baseURL: https://docs.ftx.com/
+    tags:
+      - Cryptocurrency
+    properties:
+      - type: Documentation
+        url: https://docs.ftx.com/
+common:
+  - type: Website
+    url: https://docs.ftx.com/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com

@@ -39,7 +39,6 @@ apis:
   - name: FTX
     description: "Complete REST, websocket, and FTX APIs to suit your algorithmic trading needs"
     humanURL: https://docs.ftx.com/
-    baseURL: https://docs.ftx.com/
     tags:
       - Cryptocurrency
     properties:

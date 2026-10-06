@@ -27,7 +27,7 @@ description: "Complete REST, websocket, and FTX APIs to suit your algorithmic tr
 url: https://docs.ftx.com/
 specificationVersion: '0.23'
 created: '2026-05-28'
-modified: '2026-05-28'
+modified: '2026-10-06'
 x-source: public-apis/public-apis
 x-category: "Cryptocurrency"
 x-tier: 3
@@ -45,6 +45,8 @@ apis:
       - type: Documentation
         url: https://docs.ftx.com/
 common:
+  - url: https://claims.ftx.com/blog/
+    type: Blog
   - type: DomainSecurity
     url: security/ftx-domain-security.yml
   - type: Website
